@@ -13,6 +13,7 @@ const input = {
   ],
 };
 
+
 const output = [
   { name: "Anna", age: 16, gender: "Female", birthday: "2004-12-01" },
   { name: "Kevin", age: 22, gender: "Male", birthday: "1998-01-21" },
